@@ -1,12 +1,8 @@
-<h1 align="center">TAP: Tabular Augmentation Policy</h1>
+# Tabular Augmentation Policy
 
-<p align="center">
 Initial code release for the paper [ICML 2026] Active Tabular Augmentation via Policy-Guided Diffusion Inpainting.
-</p>
 
-<!-- # Tabular Augmentation Policy
 
-Initial code release for the paper [ICML 2026] Active Tabular Augmentation via Policy-Guided Diffusion Inpainting. -->
 
 ## Setup
 
@@ -46,6 +42,7 @@ python run_tap.py \
 
 If you found the resources in this repository useful, please cite our work:
 
-``` bibtex
+```bibtex
 coming soon...
 ```
+
