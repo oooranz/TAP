@@ -1,6 +1,12 @@
-# Tabular Augmentation Policy
+<h1 align="center">TAP: Tabular Augmentation Policy</h1>
 
+<p align="center">
 Initial code release for the paper [ICML 2026] Active Tabular Augmentation via Policy-Guided Diffusion Inpainting.
+</p>
+
+<!-- # Tabular Augmentation Policy
+
+Initial code release for the paper [ICML 2026] Active Tabular Augmentation via Policy-Guided Diffusion Inpainting. -->
 
 ## Setup
 
@@ -36,17 +42,10 @@ python run_tap.py \
   --device cuda
 ```
 
-<!-- ## **Citation**
+## **Citation**
 
-If you found the resources in this repository useful, please link or cite our work:
+If you found the resources in this repository useful, please cite our work:
 
 ``` bibtex
-@inproceedings{
-anonymous2026active,
-title={Active Tabular Augmentation via Policy-Guided Diffusion Inpainting},
-author={Anonymous},
-booktitle={Forty-third International Conference on Machine Learning},
-year={2026},
-url={https://openreview.net/forum?id=oa9VyvHw8K}
-}
-``` -->
+coming soon...
+```
