@@ -1,7 +1,8 @@
-# Tabular Augmentation Policy
+<h1 align="center">Tabular Augmentation Policy</h1>
 
+<p align="center">
 Initial code release for the paper [ICML 2026] Active Tabular Augmentation via Policy-Guided Diffusion Inpainting.
-
+</p>
 
 
 ## Setup
