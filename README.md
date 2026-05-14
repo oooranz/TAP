@@ -1,7 +1,7 @@
 <h1 align="center">Tabular Augmentation Policy</h1>
 
 <p align="center">
-Initial code release for the paper [ICML 2026] Active Tabular Augmentation via Policy-Guided Diffusion Inpainting.
+Initial code release for the paper [ICML 2026] [Active Tabular Augmentation via Policy-Guided Diffusion Inpainting](https://arxiv.org/abs/2605.10315).
 </p>
 
 
@@ -44,6 +44,14 @@ python run_tap.py \
 If you found the resources in this repository useful, please cite our work:
 
 ```bibtex
-coming soon...
+@misc{zhang2026tap,
+      title={Active Tabular Augmentation via Policy-Guided Diffusion Inpainting}, 
+      author={Zheyu Zhang and Shuo Yang and Bardh Prenkaj and Gjergji Kasneci},
+      year={2026},
+      eprint={2605.10315},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.10315}, 
+}
 ```
 
