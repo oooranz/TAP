@@ -1,8 +1,10 @@
-<h1 align="center">Tabular Augmentation Policy</h1>
+# 🚰 TAP
+
+[![arXiv](https://img.shields.io/badge/arXiv-2605.10315-b31b1b.svg)](https://arxiv.org/abs/2605.10315)
 
 Initial code release for the paper [ICML 2026] [Active Tabular Augmentation via Policy-Guided Diffusion Inpainting](https://arxiv.org/abs/2605.10315).
 
-
+High-fidelity tabular generators don't necessarily help downstream learners, a phenomenon we call the *fidelity-utility gap*. **TAP** closes it by bringing RLVR-style policy learning to tabular augmentation. We pair a frozen diffusion inpainter with a lightweight policy that learns *what* to generate and *when* to inject, using a tabular foundation model (TabPFN) as a fast online utility estimator. Augmentation becomes an active, sequential decision process rather than passive sampling, with explicit gating and conservative windowed commitment ensuring safe injection under data scarcity.
 
 ## Setup
 
